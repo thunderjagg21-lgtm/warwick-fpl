@@ -44,8 +44,8 @@ python3 scripts/collect.py
 
 To recover from a prolonged runner outage, run the collector on a network permitted by FPL, commit `docs/` and manually run the workflow. Normal use never requires uploads. A manual workflow run refreshes on demand but still depends on FPL access.
 
-## Verification before deployment
+## Verification
 
-On 17 October 2026 the web tool could reach official bootstrap, fixtures and GW7 live endpoints, but could not retrieve tested entry picks/history/transfers endpoints. Local shell networking was unavailable. Therefore end-to-end collection must be verified by the first GitHub runner execution. No invented live data is bundled. Automated tests cover diffs, missing data, 403 preservation/circuit breaking, frozen history, season mismatch, future-deadline exclusion, and filtering to the seven names.
+On 17 October 2026 the web tool could reach official bootstrap, fixtures and GW7 live endpoints, but could not retrieve tested entry picks/history/transfers endpoints. Local shell networking was unavailable. The first GitHub runner execution then successfully collected all seven managers for GW1–GW7, including histories, transfers, live data and fixtures, with zero endpoint errors at 14:21 UTC on 17 October 2026. Pages enablement was required separately. No invented live data is bundled. Automated tests cover diffs, missing data, 403 preservation/circuit breaking, frozen history, season mismatch, future-deadline exclusion, and filtering to the seven names.
 
 Official references: [FPL API bootstrap](https://fantasy.premierleague.com/api/bootstrap-static/), [GitHub Pages workflows](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages), [Actions billing](https://docs.github.com/en/billing/concepts/product-billing/github-actions), [schedule limitations](https://docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows#schedule).
