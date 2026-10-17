@@ -1,0 +1,57 @@
+name: Refresh Warwick FPL
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 * * * *'
+  push:
+    branches: [main]
+    paths: ['scripts/**', 'tests/**', '.github/workflows/**']
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: warwick-feed
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: Test collector
+        run: python -m unittest discover -s tests -v
+      - name: Fetch public FPL data
+        run: python scripts/collect.py
+      - name: Preserve snapshots in Git
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add docs
+          if ! git diff --cached --quiet; then
+            git commit -m 'Refresh FPL snapshots'
+            git push
+          fi
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: docs
+          retention-days: 1
+      - name: Deploy feed
+        id: deployment
+        uses: actions/deploy-pages@v4
+      - name: Flag degraded data after publishing status
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          status = json.loads(Path('docs/data/2026-27/status.json').read_text())
+          if status['state'] != 'ok':
+              raise SystemExit('FPL collection degraded. Last good snapshots retained; see published status.json.')
+          PY
