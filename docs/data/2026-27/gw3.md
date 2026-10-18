@@ -2,7 +2,7 @@
 
 
 
-Season: 2026-27. Feed status: ok. Attempt: 2026-10-18T16:50:34.040113+00:00.
+Season: 2026-27. Feed status: ok. Attempt: 2026-10-18T17:44:59.207369+00:00.
 
 Check status.json errors and each source timestamp before treating data as fresh. Scores may be provisional.
 
