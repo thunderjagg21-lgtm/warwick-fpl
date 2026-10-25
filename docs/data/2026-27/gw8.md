@@ -2,7 +2,7 @@
 
 
 
-Season: 2026-27. Feed status: ok. Attempt: 2026-10-25T15:51:25.506159+00:00.
+Season: 2026-27. Feed status: ok. Attempt: 2026-10-25T16:53:12.521234+00:00.
 
 Check status.json errors and each source timestamp before treating data as fresh. Scores may be provisional.
 
@@ -12,7 +12,7 @@ Check status.json errors and each source timestamp before treating data as fresh
 
 
 
-Picks fetched: 2026-10-25T15:51:26.201932+00:00.
+Picks fetched: 2026-10-25T16:53:13.225771+00:00.
 
 Starting XI: Verbruggen, Gabriel, De Cuyper, Thomas, Palmer, Barnes, Rogers, Groß, Evanilson, Haaland, João Pedro
 
@@ -34,7 +34,7 @@ Squad out: Barry, B.Fernandes
 
 
 
-Picks fetched: 2026-10-25T15:51:26.211807+00:00.
+Picks fetched: 2026-10-25T16:53:13.241108+00:00.
 
 Starting XI: Raya, Gabriel, Guéhi, De Cuyper, Muharemović, Mbeumo, Groß, Ødegaard, Haaland, João Pedro, Barry
 
@@ -56,7 +56,7 @@ Squad out: none
 
 
 
-Picks fetched: 2026-10-25T15:51:26.223732+00:00.
+Picks fetched: 2026-10-25T16:53:13.255888+00:00.
 
 Starting XI: Trafford, Gvardiol, Calafiori, Konsa, Rogers, Palmer, Tavernier, Schade, Groß, Haaland, João Pedro
 
@@ -78,7 +78,7 @@ Squad out: Semenyo
 
 
 
-Picks fetched: 2026-10-25T15:51:26.234408+00:00.
+Picks fetched: 2026-10-25T16:53:13.271105+00:00.
 
 Starting XI: Kinsky, Calafiori, Gabriel, Vuskovic, Mbeumo, Rogers, Groß, King, Haaland, João Pedro, Calvert-Lewin
 
@@ -100,7 +100,7 @@ Squad out: none
 
 
 
-Picks fetched: 2026-10-25T15:51:26.244570+00:00.
+Picks fetched: 2026-10-25T16:53:13.285526+00:00.
 
 Starting XI: Verbruggen, Hall, Calafiori, Konsa, Palmer, Tavernier, Rogers, Groß, João Pedro, Haaland, Wissa
 
@@ -122,7 +122,7 @@ Squad out: Saka
 
 
 
-Picks fetched: 2026-10-25T15:51:26.254451+00:00.
+Picks fetched: 2026-10-25T16:53:13.299481+00:00.
 
 Starting XI: Trafford, Calafiori, Konsa, De Cuyper, Palmer, Groß, Tavernier, Cherki, João Pedro, Haaland, Isak
 
@@ -144,7 +144,7 @@ Squad out: Semenyo
 
 
 
-Picks fetched: 2026-10-25T15:51:26.268976+00:00.
+Picks fetched: 2026-10-25T16:53:13.315645+00:00.
 
 Starting XI: Raya, Calafiori, Gvardiol, De Cuyper, Gakpo, Mbeumo, Cherki, Rogers, João Pedro, Haaland, Calvert-Lewin
 
