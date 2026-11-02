@@ -2,7 +2,7 @@
 
 
 
-Season: 2026-27. Feed status: ok. Attempt: 2026-11-02T18:13:22.543145+00:00.
+Season: 2026-27. Feed status: ok. Attempt: 2026-11-02T19:19:31.133739+00:00.
 
 Check status.json errors and each source timestamp before treating data as fresh. Scores may be provisional.
 
@@ -12,7 +12,7 @@ Check status.json errors and each source timestamp before treating data as fresh
 
 
 
-Picks fetched: 2026-11-02T18:13:25.169651+00:00.
+Picks fetched: 2026-11-02T19:19:32.521363+00:00.
 
 Starting XI: Kinsky, Gabriel, Gvardiol, Thomas, Palmer, Barnes, Rogers, Groß, Evanilson, Haaland, N.Jackson
 
@@ -34,7 +34,7 @@ Squad out: João Pedro
 
 
 
-Picks fetched: 2026-11-02T18:13:25.333093+00:00.
+Picks fetched: 2026-11-02T19:19:32.536404+00:00.
 
 Starting XI: Raya, Gabriel, Guéhi, Truffert, Muharemović, Mbeumo, Groß, Rogers, Haaland, Evanilson, Barry
 
@@ -56,7 +56,7 @@ Squad out: Ødegaard, João Pedro
 
 
 
-Picks fetched: 2026-11-02T18:13:25.501848+00:00.
+Picks fetched: 2026-11-02T19:19:32.547177+00:00.
 
 Starting XI: Trafford, Bogle, Egan, Tarkowski, Rogers, Tavernier, Schade, Palmer, Groß, Haaland, Isak
 
@@ -78,7 +78,7 @@ Squad out: João Pedro, Gvardiol
 
 
 
-Picks fetched: 2026-11-02T18:13:25.666072+00:00.
+Picks fetched: 2026-11-02T19:19:32.558778+00:00.
 
 Starting XI: Suzuki, Hall, Gabriel, Vuskovic, Tavernier, Rogers, Groß, King, E.Le Fée, Haaland, Calvert-Lewin
 
@@ -100,7 +100,7 @@ Squad out: Lammens, Mbeumo
 
 
 
-Picks fetched: 2026-11-02T18:13:25.833118+00:00.
+Picks fetched: 2026-11-02T19:19:32.571780+00:00.
 
 Starting XI: Kelleher, Hall, Gabriel, Konsa, Palmer, Tavernier, Rogers, Kluivert, Thiago, Haaland, Evanilson
 
@@ -122,7 +122,7 @@ Squad out: Calafiori, Verbruggen, Groß, João Pedro, van Ewijk, Mitchell, Slate
 
 
 
-Picks fetched: 2026-11-02T18:13:26.012467+00:00.
+Picks fetched: 2026-11-02T19:19:32.585081+00:00.
 
 Starting XI: Trafford, Gvardiol, Konsa, De Cuyper, Palmer, Groß, Tavernier, Cherki, N.Jackson, Haaland, Isak
 
@@ -144,7 +144,7 @@ Squad out: João Pedro
 
 
 
-Picks fetched: 2026-11-02T18:13:26.175534+00:00.
+Picks fetched: 2026-11-02T19:19:32.730660+00:00.
 
 Starting XI: Raya, Calafiori, Gvardiol, De Cuyper, Gakpo, Mbeumo, Cherki, Rogers, João Pedro, Haaland, Evanilson
 
