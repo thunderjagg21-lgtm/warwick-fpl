@@ -2,7 +2,7 @@
 
 
 
-Season: 2026-27. Feed status: ok. Attempt: 2026-11-03T10:16:42.066025+00:00.
+Season: 2026-27. Feed status: ok. Attempt: 2026-11-03T11:16:02.530727+00:00.
 
 Check status.json errors and each source timestamp before treating data as fresh. Scores may be provisional.
 
@@ -12,11 +12,11 @@ Check status.json errors and each source timestamp before treating data as fresh
 
 
 
-Picks fetched: 2026-11-03T10:16:42.952650+00:00.
+Picks fetched: 2026-11-03T11:16:03.361194+00:00.
 
-Starting XI: Kinsky, Gabriel, Gvardiol, Thomas, Palmer, Barnes, Rogers, Groß, Evanilson, Haaland, N.Jackson
+Starting XI: Kinsky, Gabriel, Gvardiol, De Cuyper, Palmer, Barnes, Rogers, Groß, Haaland, N.Jackson, Evanilson
 
-Bench (order): Verbruggen, De Cuyper, Greaves, Hughes
+Bench (order): Verbruggen, Thomas, Greaves, Hughes
 
 Captain: Haaland
 
@@ -34,11 +34,11 @@ Squad out: João Pedro
 
 
 
-Picks fetched: 2026-11-03T10:16:42.986270+00:00.
+Picks fetched: 2026-11-03T11:16:03.488840+00:00.
 
-Starting XI: Raya, Gabriel, Guéhi, Truffert, Muharemović, Mbeumo, Groß, Rogers, Haaland, Evanilson, Barry
+Starting XI: Raya, Gabriel, De Cuyper, Truffert, Muharemović, Mbeumo, Groß, Rogers, Haaland, Evanilson, Barry
 
-Bench (order): Kinsky, De Cuyper, McGinn, Xhaka
+Bench (order): Kinsky, Guéhi, McGinn, Xhaka
 
 Captain: Haaland
 
@@ -56,7 +56,7 @@ Squad out: Ødegaard, João Pedro
 
 
 
-Picks fetched: 2026-11-03T10:16:43.005656+00:00.
+Picks fetched: 2026-11-03T11:16:03.608897+00:00.
 
 Starting XI: Trafford, Bogle, Egan, Tarkowski, Rogers, Tavernier, Schade, Palmer, Groß, Haaland, Isak
 
@@ -78,7 +78,7 @@ Squad out: João Pedro, Gvardiol
 
 
 
-Picks fetched: 2026-11-03T10:16:43.023891+00:00.
+Picks fetched: 2026-11-03T11:16:03.735594+00:00.
 
 Starting XI: Suzuki, Hall, Gabriel, Vuskovic, Tavernier, Rogers, Groß, King, E.Le Fée, Haaland, Calvert-Lewin
 
@@ -100,7 +100,7 @@ Squad out: Lammens, Mbeumo
 
 
 
-Picks fetched: 2026-11-03T10:16:43.045384+00:00.
+Picks fetched: 2026-11-03T11:16:03.862829+00:00.
 
 Starting XI: Kelleher, Hall, Gabriel, Konsa, Palmer, Tavernier, Rogers, Kluivert, Thiago, Haaland, Evanilson
 
@@ -122,7 +122,7 @@ Squad out: Calafiori, Verbruggen, Groß, João Pedro, van Ewijk, Mitchell, Slate
 
 
 
-Picks fetched: 2026-11-03T10:16:43.061785+00:00.
+Picks fetched: 2026-11-03T11:16:03.988488+00:00.
 
 Starting XI: Trafford, Gvardiol, Konsa, De Cuyper, Palmer, Groß, Tavernier, Cherki, N.Jackson, Haaland, Isak
 
@@ -144,11 +144,11 @@ Squad out: João Pedro
 
 
 
-Picks fetched: 2026-11-03T10:16:43.081291+00:00.
+Picks fetched: 2026-11-03T11:16:04.115750+00:00.
 
-Starting XI: Raya, Calafiori, Gvardiol, De Cuyper, Gakpo, Mbeumo, Cherki, Rogers, João Pedro, Haaland, Evanilson
+Starting XI: Raya, Calafiori, Gvardiol, De Cuyper, Giles, Gakpo, Mbeumo, Cherki, Rogers, Evanilson, Haaland
 
-Bench (order): Dubravka, Giles, Davis, Yalcouyé
+Bench (order): Dubravka, João Pedro, Davis, Yalcouyé
 
 Captain: Haaland
 
